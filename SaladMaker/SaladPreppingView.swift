@@ -13,7 +13,7 @@ struct IngredientPrepping: Identifiable {
     let ingredient: Ingredient
     var preppingStatus: IngredientPreppingViewStatus
     
-    let name: String
+    let name: String = ""
 }
 
 struct SaladPreppingView: View {
