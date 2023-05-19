@@ -8,9 +8,9 @@
 import SwiftUI
 
 enum SaladStatus {
-    case notStarted,
-         prepping,
-         completed
+    case notStarted
+    case prepping
+    case completed
 }
 
 struct ContentView: View {

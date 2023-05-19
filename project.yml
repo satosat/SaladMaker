@@ -1,0 +1,10 @@
+name: SaladMaker
+options:
+  bundleIdPrefix: com.satosat
+targets:
+  SaladMaker:
+    type: application
+    platform: iOS
+    deploymentTarget: "14.0"
+    sources:
+      - SaladMaker
