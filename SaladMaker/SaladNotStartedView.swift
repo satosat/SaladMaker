@@ -10,6 +10,8 @@ import SwiftUI
 struct SaladNotStartedView: View {
     let onPrepareTapped: () -> ()
     
+    let name: String = ""
+    
     var body: some View {
         VStack {
             Image("bowl").padding()
