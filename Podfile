@@ -7,4 +7,5 @@ target 'SaladMaker' do
 
   # Pods for SaladMaker
   pod 'Firebase'
+  pod 'JSON'
 end
