@@ -7,4 +7,5 @@ target 'SaladMaker' do
 
   # Pods for SaladMaker
   pod 'Alamofire'
+  pod 'Firebase'
 end
