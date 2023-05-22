@@ -6,6 +6,5 @@ target 'SaladMaker' do
   use_frameworks!
 
   # Pods for SaladMaker
-  pod 'Alamofire'
   pod 'Firebase'
 end
